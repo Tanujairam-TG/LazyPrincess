@@ -1,7 +1,7 @@
 <p align="center">
   
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> MK BOTS </b>
 </h1>
 
 ## ⚡️Features
